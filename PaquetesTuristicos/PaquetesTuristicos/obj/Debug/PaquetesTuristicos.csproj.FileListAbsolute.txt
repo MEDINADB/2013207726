@@ -1,0 +1,16 @@
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe.config
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.pdb
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.Entities.dll
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.Entities.pdb
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.exe
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe.config
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.exe
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.csprojResolveAssemblyReference.cache
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.exe
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos\obj\Debug\PaquetesTuristicos.pdb

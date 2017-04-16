@@ -1,0 +1,8 @@
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\LUIS ENRIQUE\Music\Documents\Visual Studio 2017\Projects\2013207726\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
